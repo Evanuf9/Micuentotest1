@@ -60,7 +60,7 @@ document.getElementById("dame").addEventListener("click", () => {
 
 document.getElementById("damedos").addEventListener("click", () => {
   endingText.textContent =
-    "Siendo consciente de la imposibilidad de adaptarse al mundo que le rodeaba – o rechazaba, más bien –, el niño – adolescente ya – en un descuido de sus padres, se suicidó para mejor culpar al mundo del dolor que su herida primigenia le causaba, dejando un reguero de dolor sordo perpetuo en su familia.";
+    "Aún con muchas dificultades, la familia, y el colegio mantuvieron un esfuerzo coordinado por hacerle sentir especialmente amado y bueno. Pudo tener, por fin, un amigo, haciéndolo sentir, por primera vez, merecedor del afecto de sus iguales. Un profesor se atrevió a mirar mas allá de su apariencia hosca, y logró hacerse un hueco en su corazón atribulado. Inconmensurables cantidades de amor y paciencia de todos cuantos le rodearon le ayudaron a llenar su vacío interior y restañar su herida primigenia con el amor de sus semejantes. Y cuando alcanzó la madurez, pudo elevarse más allá de su doloroso origen, y desarrollar una vida plena, criar una familia, y crear relaciones plenas afectivas con cuantos lo rodearon, y hacer felices a sus semejantes siendo feliz el mismo.";
   ending.dataset.background = "image10.jpeg";
   updateBackgroundWhenVisible(ending);
 });
